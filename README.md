@@ -24,7 +24,7 @@
 Клонируй проект
    ```bash
    git clone https://github.com/kira111dfg/tg-bot-analitic.git
-   cd subscribe-tracker-bot
+   cd telegrammbot
 Создай виртуальное окружение и установи зависимости
   python -m venv venv
   source venv/bin/activate
